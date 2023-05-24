@@ -89,9 +89,9 @@ body{
         display: flex;
         width: 90%;
         flex-direction: row-reverse;
-        margin: 90px auto ;
+        margin: 50px auto ;
         padding-bottom: 0;
-        margin-bottom: 10px;
+        margin-bottom: 30px;
     }
     .contenido_textos_stats{
         width: 72%;
