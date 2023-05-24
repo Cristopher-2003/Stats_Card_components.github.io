@@ -91,7 +91,7 @@ body{
         flex-direction: row-reverse;
         margin: 90px auto ;
         padding-bottom: 0;
-        margin-bottom: 0;
+        margin-bottom: 10px;
     }
     .contenido_textos_stats{
         width: 72%;
